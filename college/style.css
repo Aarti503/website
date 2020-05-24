@@ -1,0 +1,13 @@
+
+
+
+a:hover{
+	
+	background: black !important;
+	color: white !important ;
+}
+
+::placeholder{
+	top: 0% !important;
+	bottom: 20% !important;
+}
